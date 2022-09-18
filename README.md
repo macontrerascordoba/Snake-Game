@@ -5,10 +5,10 @@ This is a basic Snake game created with python using the turtle module. I used [
 
 
 ### Controls
-W - Up
-S - Down
-A - Left
-D - Right
+W - Up  
+S - Down  
+A - Left  
+D - Right  
 
 
 ### Objetive
